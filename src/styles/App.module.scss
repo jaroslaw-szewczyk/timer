@@ -1,0 +1,12 @@
+@import './settings.scss';
+
+.app_container {
+  margin: auto;
+  text-align: center;
+}
+
+.counter {
+  margin: 20px;
+  color: $color-light;
+  font-size: $font-size;
+}
